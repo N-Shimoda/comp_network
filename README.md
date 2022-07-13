@@ -1,6 +1,9 @@
 # コンピュータネットワーク　過去問研究
+「コンピュータネットワーク」の(自作)過去問答案
 
-## テスト
-工学部専門科目「コンピュータネットワーク」の過去問答案を掲載していきます。
+## 目次
+1. [2021年度](exam2021.md)
+2. [2019年度](exam2019.md)
 
-2021年度過去問は[こちら](exam/exam2021.md)
+## 問題
+問題は[Googleドライブ](https://drive.google.com/drive/folders/1Mbm7I9AQ6smKtomsBVtTvqTtSBbZiHi-?usp=sharing)のものを利用
